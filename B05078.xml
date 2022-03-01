@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and exact copy of a prodigious and traiterous libel, affixt upon the church-door of Kettle, in Fife, the third of this instant, being Easter-day; / written and subscribed by James Russel, one of those bloody and sacrilegious murtherers of the late Lord Primate of Scotland, His Grace.</title>
+            <author>Russell, James, of Kettle.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05078</idno>
+            <idno type="STC">Wing R2341</idno>
+            <idno type="STC">ESTC R182896</idno>
+            <idno type="EEBO-CITATION">51784630</idno>
+            <idno type="OCLC">ocm 51784630</idno>
+            <idno type="VID">175038</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05078)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175038)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2710:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and exact copy of a prodigious and traiterous libel, affixt upon the church-door of Kettle, in Fife, the third of this instant, being Easter-day; / written and subscribed by James Russel, one of those bloody and sacrilegious murtherers of the late Lord Primate of Scotland, His Grace.</title>
+                  <author>Russell, James, of Kettle.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson ...,</publisher>
+                  <pubPlace>Edinburgh. :</pubPlace>
+                  <date>Anno Dom. 1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, print show-through with some loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  History --  1660-1688 --  Early works to 1800.</term>
+               <term>Scotland --  Politics and government --  1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175038:1"/>
+            <pb facs="tcp:175038:1" rendition="simple:additions"/>
+            <p>A True and Exact COPY OF A PRODIGIOUS and TRAITEROUS LIBEL, Affixt upon the Church-door of <hi>Kettle,</hi> in <hi>Fife,</hi> the third of this inſtant, being <hi>Eaſter<g ref="char:EOLhyphen"/>day;</hi> written and ſubſcribed by <hi>James Ruſſel,</hi> one of thoſe bloody and Sa<g ref="char:EOLhyphen"/>crilegious Murtherers of the late Lord Primate of <hi>Scotland,</hi> his Grace.</p>
+            <p>
+               <hi>Publiſhed by Authority, for the ſatisfaction and information of all His Majesties Loyal and dutiful Subjects.</hi>
+            </p>
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH.</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to His Moſt Sacred Majeſty, <hi>Anno Dom.</hi> 1681.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:175038:2"/>
+            <opener>
+               <dateline>Edinburgh, <date>
+                     <hi>eighteenth day of</hi> April, 1681.</date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>VEra Copia</hi> collationed with the Original, (all written and ſigned by this execrable Murtherer his own Hand) which is kept a<g ref="char:EOLhyphen"/>mongſt the Records of His Majeſties Privy Coun<g ref="char:EOLhyphen"/>cil; and atteſted by</p>
+            <closer>
+               <signed>
+                  <hi>WILL PATERSON,</hi> Cl. Sti. Concilij. <hi>and PAT MENZIES.</hi> Cl. Sti. Concilij.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:175038:2"/>
+            <head>A True and Exact COPY OF A PRODIGIOUS and TRAITEROUS LIBEL <hi>Affixt upon the Church-door of</hi> Kettle <hi>in</hi> Fife, &amp;c.</head>
+            <p>BE it kend to all men, That whereas theſe who were once lawful Magiſtrats and Rulers, and were exerciſing their power, in oppoſition to all the Enemies of God, and were a terrour to allevil doers, are now become Tyrants and Land judge<g ref="char:EOLhyphen"/>ments, and Murderers of all theſe who departs from iniquity, and who are jeoparding their lives every day for maintaining and pro<g ref="char:EOLhyphen"/>moving of the Goſpel of Chriſt and the true <hi>Presbyterian Govern<g ref="char:EOLhyphen"/>ment,</hi> which the three Kingdoms ſwore oftner nor once or twice to maintain with their lives and liberties, which Oaths they have all now broken, and have taken new Oaths contrair to the word of God, in oppoſition to their former Oaths and Ingagements, by the which doing, they have overturned the whole Government, Civil and Eccleſiaſtick, and having made butcheries and havock of all the truly Godly, and Loyal and true Subjects of the Land, and raiſed ſuch Perſecution, that I was forced to flee the Country; and I hearing tell that my Mother, and others who medled with my Affairs, were ſtill paying the Few Duty (which properly belongs to the Crown of <hi>Scotland</hi>) and Seſs, which that Tyrant cauſes up<g ref="char:EOLhyphen"/>lift for the bearing down the Goſpel of Chriſt, and for maintain<g ref="char:EOLhyphen"/>ing theſe Butcherers, Troopers and Souldiers, and was paying that Teind which properly belongs to the Miniſters of the Goſpel of Chriſt, to Mr. <hi>John Barkley,</hi> who is both a thief and a robber; by the paying of which, they acknowledge <hi>Charles Stewart</hi> to be a law<g ref="char:EOLhyphen"/>ful Magiſtrate, and Mr. <hi>John Barkley</hi> to be a Miniſter of Jeſus Chriſt, which is blaſphemy to ſay, as I ſhall prove afterwards; and after ſeveral times writing to my Mother, and ſome others who pretend<g ref="char:EOLhyphen"/>ed kindneſs to me, ſhewing the great ſin that we were involved in, by owning any of theſe Tyrants any manner of way, and ear<g ref="char:EOLhyphen"/>neſtly deſiring her to forbear and not to own them any manner of way directly or indirectly, but rather to ſuffer the outmoſt of ha<g ref="char:EOLhyphen"/>zard, than to ſin againſt God by ſtrengthning the hands of the
+<pb n="4" facs="tcp:175038:3"/>ſtated and avowed enemies of our Lord Jeſus Chriſt, who is King, and alone Head of his Church; but my writing being to no purpoſe, and I being convinced of the greatneſs of this ſin, and the hei<g ref="char:EOLhyphen"/>nous aggravations thereof, and the Judgements that would follow, if repentance prevented not, and being exerciſed for a long time, about what way to take for exoneration of my conſcience before God and the World, and a teſtimony againſt all others who does go on in that ſin, the clear conviction of the indiſpenſibleneſs of this my duty, I have now reſolved through the grace of God, be the outward hazard whatſomever, to write thir two or three Lines, and cauſe put it on the Kirk-door of <hi>Kettle,</hi> being the moſt publick place, as my teſtimony againſt all the wrongs and injuries done to my ſweet Lord Jeſus Chriſt.</p>
+            <p>As I do own and declare before God and the World, that Magiſtracie is an ordinance of God, ſo I diſown and declare, that Tyranny is not of God, and ſo in oppoſition to God, and ſo againſt God, and therefore cannot be of God: and <hi>Charles Stewart</hi> being once made King of <hi>Scotland,</hi> upon condition that he ſhould keep theſe Covenants, and rule according to theſe Covenants, and the Covenants being the Coronation Oath, which Oath he has broken, and cauſed burn theſe Covenants (which was the contract and Co<g ref="char:EOLhyphen"/>venant betwixt him and the people) by the hands of the Hangman, by the burning of which Covenant, he has forfaulted his right of the Crown and Kingdom of <hi>Scotland,</hi> and is no more a King, but is become a Tyrant; therefore the people is looſed from all obliga<g ref="char:EOLhyphen"/>tions and ties as to him. <hi>Buchannan</hi> acknowledges and ſayes, <hi>When the King breaks the Contract and Covenant that was betwixt Him and the people, and doth contrair to that He covenanted to do, whatever Right or Privileage did belong to Him by that Agreement &amp; Covenant, is then lost.</hi> Likewiſe he ſaith, <hi>When a King does thoſe things which are directly for the diſſolution of Society for the continuance where<g ref="char:EOLhyphen"/>of He was created, He is a Tyrant.</hi> Other Loyaliſts acknowledge and ſay, <hi>When a King overturns one of the Fundamental Laws, He is no more a King, but a Tyrant.</hi>
+               <list>
+                  <item>2. They ſay, <hi>When a ſupream Magiſtrate maketh uſe of a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> abſolute power, and ſo breaketh all Bonds for the good of the main Society, He is a Tyrant.</hi>
+                  </item>
+                  <item>3. They ſay, <hi>When He taketh from one or more members of the Common-wealth, free ex<g ref="char:EOLhyphen"/>erciſe of the Orthodox Clergie or Religion, He is a Tyrant.</hi>
+                  </item>
+                  <item>4. They ſay, <hi>When a King doth not defend His Subjects from injuries, when he may, but ſuffereth them to be oppreſſed, He is no more a King, but a Tyrant:</hi> (And much more when he oppreſſes them and mur<g ref="char:EOLhyphen"/>ders them himſelf, as <hi>Charles Stewart</hi> does.)</item>
+                  <item>5. They ſay, <hi>VVhen a King oppreſſes the Subjects by immoderate exactions, and hindereth the free ſuffrages of Members of Parliament, ſo that they dare not ſpeak what they would, He is a Tyrant.</hi>
+                  </item>
+                  <item>6. They ſay, <hi>When He taketh away from the people all power to reſiſt His Tyrany, as Arms, Strengths, and chief men though innocent, he perſecuteth and exhauſts their goods without right or reaſon, He is a Tyrant.</hi>
+                  </item>
+                  <item>7. They ſay, <hi>When a Magistrate for corrupting of youth, erects Stage playes, Whore<g ref="char:EOLhyphen"/>houſes
+<pb n="5" facs="tcp:175038:3"/>and other Play-houſes, and ſuffers the Colledges, and other Seminaries of Learning to be corrupted, they are unfit for any Office, therefore He muſt be a Tyrant.</hi>
+                  </item>
+               </list> Prov. 6.13. <hi>Righteous lips are the delight of Kings, and they love him that ſpeaketh right,</hi> therefore <hi>Charles Stewart</hi> cannot be a King, becauſe the unrighteous lips are his delight, and he loveth all them that doeth evil and ſpeaketh againſt the truth, and therefore he muſt be a Tyrant: and ſeing that the leaſt of all theſe forenamed particulars makes a King a Tyrant, ſurely without debate <hi>Charles Stewart</hi> muſt be one of the Monſtruous and wildeſt of Tyrants, for he is guilty of all theſe, and has overturned the whole Fundamental Laws of the Land, by that Act <hi>reſciſsory,</hi> and has ſet up Luſtful and Tyrannical Laws of his own, in oppoſition to the Laws of God, and the Ancient Laws of the Land; and if we will believe <hi>Buchannan</hi> and other ſound Writers, <hi>A Tyrant has no just Authority over a People, neither is the People to own or obey him in any thing, for he is their enemy,</hi> and ſayeth he, <hi>there is a juſt and lawful War with an Enemy;</hi> much more with the enemy of all Mankind, that is Tyrant, of the which Tyrants <hi>Charles Stewart</hi> is one: and he ſaith, a lawful War being once under<g ref="char:EOLhyphen"/>taken with our Enemy, and for a juſt cauſe, <hi>it is lawful not only for the whole People to kill that Enemy, but for every one of them.</hi> I would ſp<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> that Queſtion at theſe who are not of this judgment, ſeing that Tyrants are reckoned in amongſt the number of the moſt cruel bruit Beaſts by all ſound Writers; and the Scripture, <hi>Pſal.</hi> 22.12. calls them <hi>Bulls of Baſhan,</hi> of the which Bulls, <hi>Charles Stewart</hi> is one, and all his Aſſociats are Bulls and Kine of <hi>Baſhan:</hi> What would you judge to be your duty, if there were a wild and mad Bull running up and down all <hi>Scotland,</hi> killing and ſlaying all that were come in his way, man, wife, and bairn? would you not think it your duty and every ones duty to kill him, according to that Scripture, <hi>Exod.</hi> 21.28, 29. and if this be granted, as it cannot be denied, wherefore ſhould any ſay, that it is not lawful to kill <hi>Charles Stewart</hi> or his Aſſociats, that hath been theſe twenty years, as it were, running up and down <hi>Scotland,</hi> killing and ſlaying all the true Subjects of the Land, and are ſtill continuing, and killing all that are departing from Iniquity, and are adhering to, and purſuing the ends of the <hi>Covenants,</hi> by deſiring to bring all Malig<g ref="char:EOLhyphen"/>nants to condign puniſhment, according to the <hi>Covenants,</hi> which all the three Kingdoms did ſwear with lifted up hands to the moſt High God.</p>
+            <p>Therefore, I <hi>James Ruſſel</hi> Portioner of <hi>Kettle,</hi> does reject <hi>Charles Stewart</hi> from being my King, or from having any lawful authority over me; and I do declare before the world, that <hi>I</hi> will not own nor obey him any manner of way, either by paying of Few-Duty or any other thing which properly belongs to the Crown of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> or that which they call Seſs, which is falſely impoſed upon the Kingdom, and lifted up for the baniſhing Chriſt and his Goſpel out of the Land, yea, for upholding and maintaining ruffian Troop<g ref="char:EOLhyphen"/>ers and Souldiers, for no other thing but that they may Cru<g ref="char:EOLhyphen"/>cifie Chriſt in his members every day: and likewiſe I proteſt
+<pb n="6" facs="tcp:175038:4"/>againſt <hi>my Mother</hi> and <hi>James Dale,</hi> who is now labouring my Land, at my Mothers inſtance, againſt their paying of the Few-Duty, or any other thing which properly belongs to the Crown of <hi>Scotland,</hi> but not to a Tyrant, and therefore not to <hi>Charles Stewart;</hi> and againſt the paying of that which they call Seſs. And likewiſe, I do proteſt againſt all theſe who take the name of Chriſtians to them<g ref="char:EOLhyphen"/>ſelves, who owns him or acknowledges him to have any lawful authority over them; and I do proteſt againſt the owning of any that has their authority and power flowing from him, either higher or lower Courts of Judicatures, for theſe who have no power them<g ref="char:EOLhyphen"/>ſelves, cannot cloath others with power and authority: and <hi>Charles Stewart</hi> hath no power, therefore he cannot cloath any other with power and authority, for he cannot give others that which he hath not himſelf; therefore all theſe Courts and Judicatories that have their Power flowing only from <hi>Charles Stewart,</hi> have no lawful Pow<g ref="char:EOLhyphen"/>er nor authority, more nor theſe who receives a commiſſion from a Robber to go and kill and ſlay all that they meet with on the High way; therefore cannot be owned, nor obedience given to them any manner of way, except they ſay that we muſt <hi>obey the Devil, whoſe Vicegerents they are,</hi> and that will not be granted. And I do de<g ref="char:EOLhyphen"/>clare, that I look upon all who own that Tyrant or any under hin to be lawful Magiſtrats, to be guilty of Blaſphemy, an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I prove it, Rom. 13. <hi>For there is no power but of God and the powers that be, are ordained of God;</hi> therefore that power that is exerciſed in oppoſition to God and godlineſs cannot be of God, for Rulers are not a terrour to good works, but to the evil, for he is the Miniſter of God to thee for good: Therefore <hi>Charles Stewart<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> power is not of God, for he exerciſes all his power in oppoſition to God and Godlineſs, and he is a terrour to good Works, and he gives praiſe and gifts to all theſe who do Evil; therefore <hi>he is the Miniſter of the Devil,</hi> to thee for Evil, for he executes Wrath on theſe who do Good, and therefore he hath no power of God; and therefore it muſt be acknowledged that it is the height of Blaſphemy to ſay that he is a lawful Magiſtrate, ſee<g ref="char:EOLhyphen"/>ing that he exerciſes all his power in oppoſition to God; and there<g ref="char:EOLhyphen"/>fore is no lawful Power, but an uſurped tyrannical Power: There<g ref="char:EOLhyphen"/>fore, I would deſire all that profeſſe to be Chriſtians, to be war of calling <hi>Charles Stewart</hi> a lawfull Magiſtrat, or any whoſe power flows from him, to be lawfull Rulers, leſt ye be found amongſt the number of theſe Blaſphemers, who ſay, that God is the Author of Sin; and ye may read the Blaſphemers doom in <hi>Lev.</hi> 24.16. <hi>And he that blaſphemeth the Name of the Lord, he ſhall ſurely be put to death, and all the Congregation ſhall ſurely ſtone him,</hi> &amp;c. <hi>Number</hi> 15.30.31. I would deſire all who are ex<g ref="char:EOLhyphen"/>pectants of Heaven, as they would not have God to be their enemie, to be war of doing any thing that ſtrengthens the enemies of Chriſts hands, if it were but to give them a leepy of Corn, or a bottle of Straw to their Horſe, or Bread or Drink, or Lodging to them<g ref="char:EOLhyphen"/>ſelves: for Chriſts enemies is another thing, nor our particular enemies. They that will prepare a Table for that Troop,
+<pb n="7" facs="tcp:175038:4"/>and furniſh the Drink-offering for that number, they may read their ſentence in <hi>Iſa.</hi> 65.12. <hi>Therefore will I number you to the ſword, and ye ſhall bow down to the ſlaughter,</hi> &amp;c. and do it who will, when the Lord makes inquiſition for the blood of his Saints, I am ſure they will be found guilty, and to be more nor conſenters to the Saints murdering, <hi>Act.</hi> 25.20. Yea, it is, as it were a buying of a ſword &amp; putting of it into a Robbers hand, to cut of all that's walking or trafficking in the Kings free road; yea it will be found to be a joyning Iſſue and intereſt with Gods ſtated and declared enemies, and they may expect to be ranked up amongſt the number of theſe enemies (that our ſweet Lord Jeſus Chriſt, who is King and alone Head of his Church,) will paſs that Sentence againſt, if ſpeedy Repentance prevent not, <hi>Luk.</hi> 19.27. <hi>But theſe mine enemies which would not that I ſhould reign over them, bring hither and ſlay them before me.</hi>
+            </p>
+            <p>Likewiſe I do proteſt againſt the paying of Teind (which pro<g ref="char:EOLhyphen"/>perly belongs to the Miniſters of Chriſt) to Mr. <hi>John Barckley,</hi> which is acknowledging him who is both a Theif and a Robber, to be a lawful Miniſter of Jeſus Chriſt, according to that Scripture, <hi>Joh.</hi> 10. <hi>He that entereth not by the door into the ſheepfold, but climbeth up ſome other way, the ſame is a theif and a robber,</hi> which Theif and Robber Mr. <hi>John Bar<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> is; for Chriſt is the door, <hi>ver.</hi> 7. <hi>I am the door of the ſheep,</hi> and not the Lordly Prelats, which was the entry that Mr. <hi>John Barckley</hi> entered in, and all the reſt both did, and doeth enter; therefore they are all Thieves and Robbers, <hi>Mat.</hi> 20.25. <hi>Ye know that the princes of the</hi> Gentiles <hi>exerciſed dominion over them,</hi> &amp;c. <hi>ver.</hi> 26. <hi>but it ſhall not be ſo among you, but whoſoever will be great among you, let him be your Miniſter,</hi> Luk. 22.25, 26, 27. <hi>But I am among you as he that ſerveth;</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Neither as being lords over Gods heritage, but being enſamples to the ſtock:</hi> And Mr. <hi>John Barckley</hi> was thruſt in upon the flock againſt their wills by the Lordly Prelat, without ſo much as the Call of the leaſt of all the Paroch; yea, I was witneſs that day, that he was thruſt in (to my ſhame I may tell this, and to the praiſe of his free Grace that has reclaimed me) and there was not one that would riſe to take him by the hand, till they were threatened by the reſt of the Hire<g ref="char:EOLhyphen"/>lings; therefore he entred not in by the door, but clim'd up an other way, therefore he is both a Thief and a Robber, and a falſe Prophet, <hi>Jer.</hi> 23.21. <hi>I have not ſent theſe Prophets, yet they ran; I have not ſpoken unto them, yet they propheſied.</hi> Mat. 7.15, 16. <hi>Be<g ref="char:EOLhyphen"/>ware of falſe Prophets, which come to you in ſheeps clothing, but inward<g ref="char:EOLhyphen"/>ly they are ravening Wolves, ye ſhall know them by their fruits:</hi> 2 Pet. 2.12. <hi>But theſe are natural brute beasts,</hi> &amp;c. Jer. 10.21. <hi>For the Paſtors are become brutiſh, and have not ſought the Lord; therefore they ſhall not proſper.</hi> Ezek. 13.3. <hi>Thus ſaith the Lord, wo unto the fooliſh Prophet,</hi> ver. 9. <hi>Mine hand ſhall be upon the Prophets that ſee viſions and divine lies, they ſhall not be in the aſſembly of my people, neither ſhall they be written in the writings of the houſe of</hi> Iſrael, <hi>nei<g ref="char:EOLhyphen"/>ther ſhall they enter into the land of</hi> Iſrael, <hi>and ye ſhall know that I am the Lord God, becauſe, even becauſe they have ſeduced my people, ſaying,
+<pb n="8" facs="tcp:175038:5"/>peace, and there was no peace,</hi> &amp;c. to the 27. 2 Cor. 11.15. <hi>Therefore it is no great thing if theſe Ministers alſo be transformed as the Miniſters of Righ<g ref="char:EOLhyphen"/>teouſneſs, whoſe end ſhall be according to their works.</hi> Ezek. 34.4. <hi>Wo be to the ſhepherds of</hi> Iſrael <hi>that doth feed themſelves,</hi> &amp;c. Ezek. 13.4. <hi>And it ſhall come to paſs in that day, that the Prophets ſhall be aſhamed,</hi> &amp;c. Mal. 2.8. <hi>But ye are departed out of the way, ye have cauſed many to ſtumble at the Law, ye have corrupted the covenant of</hi> Levi, <hi>ſaith the Lord: therefore have I alſo made you contemptible and baſe before all the people,</hi> &amp;c. <hi>O ye dumb dogs, the blood of many ſouls will be found in your skirts, and in a little God will bring you to judgement, and will require the blood of all the ſouls in that congregation at your hands,</hi> Ezek. 3.18. <hi>the ſame wicked man ſhall die in his iniquity, but his blood will I require at thine hand;</hi> I doubt nothing, but it would be acceptable ſervice to God, to do with you all as <hi>Elijah</hi> did with <hi>Baals</hi> prophets, 1 <hi>King.</hi> 18.40. <hi>Take the Prophets of</hi> Baal, <hi>let not one of them eſcape, ye greedy dogs which can never have enough; come ſay ye, let us fill our ſelves with ſtrong drink, and the morrow ſhall be as this day, and much more abundantly.</hi> Ye think your kingdoms will never be ſhaken, I doubt nothing but <hi>Baals</hi> Prophets thought ſo to, but they got a diſappointment, and I doubt nothing but ye will meet with the like: They cried to their God, but they were not heard: When any thing troubles you ye may cry to your god, which is your Belly, and to your King, which is King <hi>Charles,</hi> but rather that <hi>Tyrant,</hi> which you are all crying up ſo faſt, and bleſſing him; it may be ye may get ſome kind of com<g ref="char:EOLhyphen"/>fort, but I am ſure of that, the day will come, that both you and others that are crying him ſo faſt up this day, will cry and not be heard, and will be made to curſe your King and your God and look upward. I<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may be ſome will ſay, What needs all this ha<g ref="char:EOLhyphen"/>tred? I anſwer, <hi>Pſal.</hi> 139.21. <hi>Do not I hate them O Lord, that hate thee, and am not I grieved with thoſe that riſe up againſt thee; I hate them with a perfect hatred, I count them as mine enemies.</hi> They'll may be ſay, I may hate them, and not cry out to let all the world know of it. I anſwer, <hi>Luk.</hi> 19.40. <hi>I tell you, if theſe ſhould hold their peace, the stones would immediately cry out.</hi> I doubt not but ſome will ſay that I am mad to do that which will procure the hatred of all Ranks; I care not what perjured Apoſtats ſay, for my God hath ſaid unto me, <hi>fear not, for I am with you, be not diſmayed, for I am your God, I will ſtrengthen thee, yea, I will help thee, yea, I will uphold thee with the right hand of my righteouſneſs.</hi> I confeſſe if I would have ſought counſel at fleſh and blood, or yet at backſlid<g ref="char:EOLhyphen"/>ing Miniſters or Profeſſors, I would not have ventured; but praiſe to the Name of my God, he hath adviſed me better in <hi>Matth.</hi> 18.28. <hi>Fear not them which kill the body, but are not able to kill the ſoul, but rather fear him which is able to kill both ſoul and body in Hell.</hi>
+            </p>
+            <closer>
+               <dateline>Written and ſubſcribed with mine own hand, at the day of <date>1681.</date>
+               </dateline> 
+               <signed>
+                  <hi>Sic ſubſcribitur,</hi> RUSSEL.</signed>
+            </closer>
+            <pb facs="tcp:175038:5"/>
+            <pb facs="tcp:175038:6"/>
+            <pb facs="tcp:175038:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
